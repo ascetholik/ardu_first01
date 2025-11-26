@@ -1,6 +1,6 @@
 ## Контроллера SpeedyBee F405V3
 Верхная сторона
-![Сторона](images\speedybee_side1.png)
+![Сторона](ardupilot/images%5Cspeedybee_side1.png)
 Нижная сторона
 ![Сторона](images\speedybee_side2.png)
 Проект сделан на котроллере SpeedyBee F405V3 на прошивке ARDUPILOT версии [4.6.3](https://firmware.ardupilot.org/Copter/stable-4.6.3/)
